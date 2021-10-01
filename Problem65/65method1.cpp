@@ -12,7 +12,7 @@
 
 
 
-/*int main()
+int main()
 {
 	int i,length;
 	char sen[1000];
@@ -35,4 +35,4 @@
 	
 
 
-}*/
+}
