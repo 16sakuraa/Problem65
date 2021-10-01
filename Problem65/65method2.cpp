@@ -10,7 +10,7 @@
 //         as
 //         a
 
-/*int main()
+int main()
 {
 	int i=0,len;
 	char sen[1000];
@@ -31,4 +31,4 @@
 			printf("       	 ");
 		}
 	}
-}*/
+}
