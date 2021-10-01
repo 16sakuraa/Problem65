@@ -14,7 +14,7 @@ int main()
 {
 	int i=0,len;
 	char sen[1000];
-	printf("Input : ");
+	printf("Input :  ");
 	scanf("%s", sen);
 	len = strlen(sen);
 	printf("Output : ");

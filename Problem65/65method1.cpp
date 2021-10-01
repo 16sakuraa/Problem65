@@ -12,11 +12,11 @@
 
 
 
-int main()
+/*int main()
 {
 	int i,length;
 	char sen[1000];
-	printf("Input : ");
+	printf("Input :  ");
 	scanf("%s", sen);
 	length = strlen(sen);
 	printf("Output : ");
@@ -35,4 +35,4 @@ int main()
 	
 
 
-}
+}*/
